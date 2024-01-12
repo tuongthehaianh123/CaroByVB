@@ -1,0 +1,21 @@
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.pdb
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csprojAssemblyReference.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Form1.resources
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.exe
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.pdb
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.pdb
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.AssemblyReference.cache
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Form1.resources
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.exe
+C:\Users\DungPA\Documents\game\gamecocaro\Game-Co-Caro\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.pdb
